@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Bienbenido 👋
+#### 📫 Los sueños se logra con disciplina, atención y esfuerzo
 <!--
 **guangasig/guangasig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
