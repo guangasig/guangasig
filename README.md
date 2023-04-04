@@ -1,5 +1,12 @@
 ### Bienbenido 👋
-#### 📫 Los sueños se logra con disciplina, atención y esfuerzo
+#### 👨‍💻 La disciplina, atención y esfuerzo nos llevará a estar actualizado en este mundo constante de cambios.
+
+<a target="_blank" href="https://www.linkedin.com/in/guangasig-manuel">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/creativityinse">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <!--
 **guangasig/guangasig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
