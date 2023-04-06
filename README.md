@@ -1,5 +1,5 @@
 ### Bienbenido 👋
-#### 👨‍💻 La disciplina, atención y esfuerzo nos permitirá estar actualizados en este mundo constante de cambios.
+#### 👨‍💻 La disciplina y esfuerzo es materia prima del éxito de grandes cosas.
 
 <a target="_blank" href="https://www.linkedin.com/in/guangasig-manuel">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
