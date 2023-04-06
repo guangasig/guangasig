@@ -1,4 +1,4 @@
-### Bienbenido 👋
+### Bienbenido a mi github personal  👋
 #### 👨‍💻 La disciplina y esfuerzo es materia prima del éxito de grandes cosas.
 
 <a target="_blank" href="https://www.linkedin.com/in/guangasig-manuel">
